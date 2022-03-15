@@ -1,5 +1,6 @@
 <?php 
 require 'koneksi.php'; 
+
 $id_mhs = $_REQUEST['id'];
 $sql = "SELECT * FROM mahasiswa WHERE id='$id_mhs'";
 $result = mysqli_query($conn,$sql);
