@@ -14,4 +14,4 @@ INSERT INTO `mahasiswa` (`id`, `npm`, `nama`) VALUES
 (1, '201401', 'Jokowi'),
 (2, '201402', 'Prabowo'),
 (3, '201403', 'Mandra'),
-(2, '201404', 'Parjo');
+(4, '201404', 'Parjo');
